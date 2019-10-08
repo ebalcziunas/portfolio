@@ -290,51 +290,51 @@ footer .container div {
 }
 
 .bg-img-1 {
-  background-image: url('../images/img_4648.jpg');
+  background-image: url('../images/img-1.jpg');
 }
 
 .bg-img-2 {
-  background-image: url('../images/img_4649.jpg');
+  background-image: url('../images/img-2.jpg');
 }
 
 .bg-img-3 {
-  background-image: url('../images/img_4650.jpg');
+  background-image: url('../images/img-3.jpg');
 }
 
 .bg-img-4 {
-  background-image: url('../images/img_4651.jpg');
+  background-image: url('../images/img-4.jpg');
 }
 
 .bg-img-5 {
-  background-image: url('../images/img_4652.jpg');
+  background-image: url('../images/img-5.jpg');
 }
 
 .bg-img-6 {
-  background-image: url('../images/img_4655.jpg');
+  background-image: url('../images/img-6.jpg');
 }
 
 .bg-img-7 {
-  background-image: url('../images/img_4656.jpg');
+  background-image: url('../images/img-7.jpg');
 }
 
 .bg-img-8 {
-  background-image: url('../images/img_4657.jpg');
+  background-image: url('../images/img-8.jpg');
 }
 
 .bg-img-9 {
-  background-image: url('../images/img_4660.jpg');
+  background-image: url('../images/img-9.jpg');
 }
 
 .bg-img-10 {
-  background-image: url('../images/img_4661.jpg');
+  background-image: url('../images/img-10.jpg');
 }
 
 .bg-img-11 {
-  background-image: url('../images/img_4662.jpg');
+  background-image: url('../images/img-11.jpg');
 }
 
 .bg-img-12 {
-  background-image: url('../images/img_4665.jpg');
+  background-image: url('../images/img-12.jpg');
 }
 
 .overlay {
@@ -415,7 +415,6 @@ footer .container div {
   overflow: hidden;
   width: 100%;
   opacity: 0;
-  /* opacity: 1; */
   transition: opacity .5s;
   height: 100%;
   background: repeating-radial-gradient(rgba(0, 0, 0, 0.31), rgba(0, 0, 0, 0.51) 22px, rgba(255, 255, 255, 0.3) 22px, rgba(255, 255, 255, 0.3) 30px);
@@ -429,7 +428,6 @@ footer .container div {
   overflow: hidden;
   width: 100%;
   opacity: 0;
-  /* opacity: 1; */
   transition: opacity .5s;
   height: 100%;
   transition: .2s ease-in;
@@ -444,7 +442,6 @@ footer .container div {
   overflow: hidden;
   width: 100%;
   opacity: 0;
-  /* opacity: 1; */
   transition: opacity .5s;
   height: 100%;
   transition: .2s ease-in;
@@ -459,7 +456,6 @@ footer .container div {
   overflow: hidden;
   width: 100%;
   opacity: 0;
-  /* opacity: 1; */
   transition: opacity .5s;
   height: 100%;
   transition: .2s ease-in;
@@ -474,7 +470,6 @@ footer .container div {
   overflow: hidden;
   width: 100%;
   opacity: 0;
-  /* opacity: 1; */
   transition: opacity .5s;
   height: 100%;
   transition: .2s ease-in;
