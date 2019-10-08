@@ -84,6 +84,10 @@ a {
   color: #333;
 }
 
+.about a.button-sm {
+  width: 190px;
+}
+
 .logo {
   font-size: 28px;
   font-family: 'Raleway', sans-serif;
